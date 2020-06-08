@@ -2,6 +2,7 @@
 <html>
 <head>
         <meta charset="utf-8">
+        <style>
   
        
    </head>
@@ -39,6 +40,6 @@ Podczas snu delfin unosi się w wodzie na głębokości 50 cm. Śpiąc cały cza
 
 
     
-    
+  </style>
    </body>
 </html>
