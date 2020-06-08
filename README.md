@@ -2,18 +2,15 @@
 <html>
 <head>
         <meta charset="utf-8">
-        <title>CSS Basics</title>
-        <style>
-        
-        h2 {
+  <style>     
+  h2 {
             color: rgb(0, 232, 15);
         }  
-        
         body {
             background-color: rgb(97, 250, 255);
         }
             
-        </style>
+   </style>
        
    </head>
    <body>
